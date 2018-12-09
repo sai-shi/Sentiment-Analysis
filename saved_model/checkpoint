@@ -1,0 +1,2 @@
+model_checkpoint_path: "biatae_full_train_best"
+all_model_checkpoint_paths: "biatae_full_train_best"
