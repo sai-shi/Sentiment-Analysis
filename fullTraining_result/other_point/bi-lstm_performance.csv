@@ -1,0 +1,10 @@
+Test_accuracy,Train_accuracy,batch_size,dim_lstm,iterations,learning_rate
+0.817060649394989,0.9616259336471558,0,50,100,0.01
+Test_accuracy,Train_accuracy,batch_size,dim_lstm,iterations,learning_rate
+0.8191161155700684,0.8112564086914062,0,50,35,0.01
+Test_accuracy,Train_accuracy,batch_size,dim_lstm,iterations,learning_rate
+0.8026721477508545,0.9184195399284363,0,100,60,0.01
+Test_accuracy,Train_accuracy,batch_size,dim_lstm,iterations,learning_rate
+0.80781090259552,0.8084138631820679,0,100,40,0.01
+Test_accuracy,Train_accuracy,batch_size,dim_lstm,iterations,learning_rate
+0.7821171879768372,0.8956793546676636,0,50,60,0.01
